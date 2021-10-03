@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  TestTask
+
+  Created by Давид Горзолия on 10/3/21.
+  
+*/
+
+"anonymous" = "Anonymous";
+"confirmed" = "Confirmed";
+"virtual_card" = "Virtual card";
+"authentication_passed" = "Authentication passed *";
+"phone_verified" = "Phone verified";
+"max_credit_balance" = "Maximum credit balance";
+"max_account_balance" = "Maximum account balance";
+"footer_tableview_text" = "Need to write text";
+"close" = "Close";
+"limits" = "Limits";
